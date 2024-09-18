@@ -1,4 +1,4 @@
-<h2 align="left">"👋 Meu nome é David e sou desenvolvedor front-end. 💻 Tenho experiência em criar interfaces modernas e responsivas para a web. 🌐"</h2>
+<h2 align="left">"👋 Meu nome é David e sou desenvolvedor front-end. 💻 "</h2>
 
 ###
 
@@ -31,5 +31,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/davidmoka/davidmoka/output/snake.svg" alt="Snake animation" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ###
