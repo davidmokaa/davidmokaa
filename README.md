@@ -27,10 +27,10 @@
 </div>
 
 ###
-
+<img src="https://raw.githubusercontent.com/davidmoka/davidmoka/output/snake.svg" alt="Snake animation" />
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/davidmoka/davidmoka/output/snake.svg" alt="Snake animation" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
 
 ###
