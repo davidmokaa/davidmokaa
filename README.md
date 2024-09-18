@@ -1,4 +1,4 @@
-<h2 align="left">"👋 Meu nome é David e sou desenvolvedor front-end. 💻 "</h2>
+<h2 align="left">"👋 Meu nome é David! sou desenvolvedor front-end. 💻 "</h2>
 
 ###
 
@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/david-silva-61460225b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin 
       logo"  />
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+ 
   </a>
 </div>
 
